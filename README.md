@@ -27,3 +27,12 @@ Since I joined Kottans, I will definitely use these things for my learning path 
 
 ![Screenshot](./screenshots/learnGtiBranching-1.jpg)
 ![Screenshot](./screenshots/learnGitBranching-2.jpg)
+
+# 3. Intro to HTML and CSS
+
+This was nothing new to me because I had already learned HTML and CSS, but it was very helpful to revisit the basics.
+I was pleasantly surprised that at any moment I can repeat the basics and not be afraid to forget something.
+Since these are the basics, I can't deny the fact that I have to use it all from start to finish.
+
+![Screenshot](./screenshots/w1.jpg)
+![Screenshot](./screenshots/w2.jpg)
