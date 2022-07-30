@@ -18,3 +18,12 @@ I don't use Linux in my daily life, but I'm sure I'll be using these commands th
 ![Screenshot](./screenshots/quiz-2.jpg)
 ![Screenshot](./screenshots/quiz-3.jpg)
 ![Screenshot](./screenshots/quiz-4.jpg)
+
+# 2. Git Collaboration
+
+Every single topic in this module was new to me. Especially branching, working with remote repositories (push & pull, conflict resolution and Pull Requests)
+It was really amazing to me that working in Git Bash can be so easy and convenient.
+Since I joined Kottans, I will definitely use these things for my learning path here: making commits, resolving problems and conflicts in the repository, working with a remote repo, using Git Bash more confidently in my work, and tracking the commit history.
+
+![Screenshot](./screenshots/learnGtiBranching-1.jpg)
+![Screenshot](./screenshots/learnGitBranching-2.jpg)
