@@ -4,4 +4,6 @@
 
 It's all new to me and I'm really excited to learn new things, especially about Git, because I don't use it very often in my projects, and all this Git stuff has always been difficult for me, and I wanted to understand what is happening here from the very beginning.
 
-![Image text](https://github.com/FoxYulya/kottans-frontend/screenshots/main/kottans-frontend/raw/main/git_introduction.jpg)
+![Image text](https://github.com/FoxYulya/kottans-frontend/tree/main/screenshots/git_introduction.jpg)
+
+![Alt text](/relative/path/to/img.jpg?raw=true "Optional Title")
