@@ -6,6 +6,6 @@ It's all new to me and I'm really excited to learn new things, especially about 
 
 ![Image text](https://github.com/FoxYulya/kottans-frontend/tree/main/screenshots/git_introduction.jpg)
 
-![Alt text](/screenshots/path/to/git_introduction.jpg?raw=true "Optional Title")
+![Screenshot](./screenshots/git_introduction.jpg)
 
 <img src="screenshots/git_introduction.jpg" width="200" height="50"/>
