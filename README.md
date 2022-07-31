@@ -36,5 +36,5 @@ Since these are the basics, I can't deny the fact that I have to use it all from
 
 ![Screenshot](./screenshots/w1.jpg)
 ![Screenshot](./screenshots/w2.jpg)
-![Screenshot](./screenshots/html.jpg)
-![Screenshot](./screenshots/css.jpg)
+![Screenshot](./screenshots/css.PNG)
+![Screenshot](./screenshots/html.PNG)
