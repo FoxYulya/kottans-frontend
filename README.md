@@ -38,3 +38,12 @@ Since these are the basics, I can't deny the fact that I have to use it all from
 ![Screenshot](./screenshots/w2.jpg)
 ![Screenshot](./screenshots/css.jpg)
 ![Screenshot](./screenshots/html.jpg)
+
+# 4. Responsive Web Design
+
+I have studied Responsive Web Design before and practiced it every time, so it wasn't difficult for me, but it was very useful for recovering old knowledge.
+I have played these two games before and it was amazing how easy they seem to me today.
+Everything I've learned I'll use in my projects, including media queries, flexbox, and grids.
+
+![Screenshot](./screenshots/flexbox-froggy.jpg)
+![Screenshot](./screenshots/grid-garden.jpg)
