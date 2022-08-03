@@ -53,4 +53,4 @@ Everything I've learned I'll use in my projects, including media queries, flexbo
 It took a lot of time to figure out why what I did from the examples in which everything worked 😅 does not work. I liked the task, and especially the result). I want feedback from knowledgeable professionals like you.
 This is one of the many reasons why I like cottans.
 
-[Demo](https://github.com/FoxYulya/kottans-frontend/HTML_CSS_Practice/)
+[Demo](https://github.com/FoxYulya/kottans-frontend/HTML_CSS_Practice/index.html)
