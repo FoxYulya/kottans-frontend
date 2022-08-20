@@ -59,8 +59,8 @@ This is one of the many reasons why I like cottans.
 
 I learned most of this module on my own, it was useful to go over the basics again to consolidate my knowledge. Many things that were previously incomprehensible to me became clear. I understand that I need to learn ten times more than I know now.
 
-![Screenshot](./screenshots/js0.jpg)
 ![Screenshot](./screenshots/js1.jpg)
 ![Screenshot](./screenshots/js2.jpg)
 ![Screenshot](./screenshots/js3.jpg)
 ![Screenshot](./screenshots/js4.jpg)
+![Screenshot](./screenshots/js5.jpg)
